@@ -36,7 +36,7 @@ public class RabbitMQCanalConnector implements CanalMQConnector {
     private Long                                resourceOwnerId;
     private String                              username;
     private String                              password;
-
+    //  一Boolean
     private boolean                             flatMessage;
 
     private Connection                          connect;
