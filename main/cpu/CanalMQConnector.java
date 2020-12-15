@@ -1,3 +1,5 @@
+package com.alibaba.otter.canal.client;
+
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
