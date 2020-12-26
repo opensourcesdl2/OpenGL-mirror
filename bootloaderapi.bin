@@ -3,6 +3,7 @@
     x32/src/main/java/java/beans/IndexedPropertyChangeEvent.java \
     x32/src/main/java/java/beans/PropertyChangeEvent.java \
     x32/src/main/java/java/beans/PropertyChangeListener.java \
+    x32/src/main/java/java/beans/PropertyChangeListener.java \
     x32/src/main/java/java/beans/PropertyChangeListenerProxy.java \
     x32/src/main/java/java/beans/PropertyChangeSupport.java \
     x32/src/main/java/java/io/Bits.java \
